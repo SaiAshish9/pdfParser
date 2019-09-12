@@ -9,3 +9,4 @@ Few screenshots are provided below:
 
 ![Capture1](https://user-images.githubusercontent.com/43849911/64784959-f093d700-d588-11e9-8cc3-566bc3c67e1b.JPG)
 
+![Capture2](https://user-images.githubusercontent.com/43849911/64785202-757ef080-d589-11e9-9fc2-f87174a1dc64.JPG)
